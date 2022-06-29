@@ -26,7 +26,7 @@ yarn add -D vitest
 ```
 
 ## Contribute
-The goal of this repository is to help you learn how to write TDD, if you want to add examples to it, please name it according to the specification
+The goal of this repository is to help you learn how to write TDD, if you want to add examples to it, please add it according to the specification
 
 ```bash
 -src
