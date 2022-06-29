@@ -1,6 +1,10 @@
 import { test, expect } from 'vitest';
-import { getChange } from './index'
+import { getChange } from './index';
 
+
+test('vitest should work normally', () => {
+  expect(true).toBe(true);
+})
 
 test('getChange(1,1) should equal [] - an empty array', () => {
   const res = getChange(1, 1);
