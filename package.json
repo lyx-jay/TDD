@@ -3,6 +3,6 @@
     "vitest": "^0.16.0"
   },
   "scripts": {
-    "test": "vitest /src/example_1/"
+    "test": "vitest /src/example_2/"
   }
 }
