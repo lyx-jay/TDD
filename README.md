@@ -1,3 +1,5 @@
+[![OSCS Status](https://www.oscs1024.com/platform/badge/lyx-jay/TDD.svg?size=small)](https://www.oscs1024.com/project/lyx-jay/TDD?ref=badge_small)
+
 ## What is TDD ? (TEST DRIVE DEVELOPMENT)
 
 Unit tests are just testing a part of your code. What is a unit? Generally refers to a class or function, they have no dependencies or integration, and do not involve framework details. These kinds of tests that focus on a single function are usually simple, easy to write, and quick to run. Write as many unit tests as possible to ensure more bugs are found.
